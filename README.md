@@ -67,3 +67,7 @@ Gino Copparoni
 Gonzalo Clavero
 
 Franco Arturo
+
+Franco Ardiani
+
+Andrés Manelli
