@@ -66,7 +66,7 @@ Gino Copparoni
 
 Gonzalo Clavero
 
-Franco Arturo
+Franco Conte
 
 Franco Ardiani
 
