@@ -1,4 +1,4 @@
-Personas autorizadas a entrar a la asociación
+Personas autorizadas para entrar a la asociación
 
 ============
 
@@ -12,7 +12,7 @@ Mauricio Cáceres
 
 Adrian Aligia
 
-Florencia battocchia
+Florencia Battocchia
 
 Federico Sesto
 
@@ -79,3 +79,7 @@ Manuel Minati
 Emiliano López
 
 Gabriel Godoy
+
+Francisco Tinelli
+
+Adriel Fragapane
