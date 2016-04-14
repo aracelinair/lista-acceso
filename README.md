@@ -83,3 +83,7 @@ Gabriel Godoy
 Francisco Tinelli
 
 Adriel Fragapane
+
+Mario Papetti
+
+Maurizio Miño
